@@ -1,6 +1,6 @@
 # Bank System
 
-A Bank system console application in Java that allows administrators to manage user accounts. Users can perform basic tasks involving fund transfers to and from accounts. This program demonstrates OOP principles such as polymorphism, encapsulation and inheritance.
+A bank system console application in Java that allows administrators to manage user accounts. Users can perform basic tasks involving fund transfers to and from accounts. This program demonstrates OOP principles such as polymorphism, encapsulation and inheritance.
 
 
 **ADMINISTRATOR accounts** can perform the following tasks
